@@ -17,7 +17,7 @@ This is a team project for Software Engineering course. In the LaTeX Citation To
 
 ### Acceptance criteria
 <!--#L11-#L82-->
-https://github.com/Wincewind/ohtu-s23-miniprojekti/blob/9c89459e49bdeddb3923ef696eb8ee5426c9da4f/src/tests/test_reference.robot#L11-L82
+https://github.com/PlatinumFoxTail/SoftwareEngineering_Project/blob/885da82f4d74e76cb16b7062a81ddfa2365eeb55/src/tests/test_reference.robot#L11-L82
 
 
 ## How to setup and run locally (tested in Uni Linux environment, some steps/commands might be different on Windows or Mac):
