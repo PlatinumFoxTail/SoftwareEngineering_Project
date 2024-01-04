@@ -1,5 +1,5 @@
 # LaTex Citation Tool
-This is a team project for Software Engineering course. In the LaTex Citation Tool one can handle references for LaTex.
+This is a team project for Software Engineering course. In the LaTeX Citation Tool one can handle references for LaTex.
 
 [![GHA workflow badge](https://github.com/Wincewind/ohtu-s23-miniprojekti/workflows/CI/badge.svg)](https://github.com/Wincewind/ohtu-s23-miniprojekti/actions/workflows/main.yml)
 [![codecov](https://codecov.io/gh/Wincewind/ohtu-s23-miniprojekti/graph/badge.svg?token=NT9QQT7HRH)](https://codecov.io/gh/Wincewind/ohtu-s23-miniprojekti)
