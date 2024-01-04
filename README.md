@@ -25,7 +25,7 @@ https://github.com/Wincewind/ohtu-s23-miniprojekti/blob/9c89459e49bdeddb3923ef69
 1.  Clone the repository or download it as a zip:
 
 ```bash
-git clone git@github.com:Wincewind/ohtu-s23-miniprojekti.git
+git clone git@github.com:PlatinumFoxTail/SoftwareEngineering_Project.git
 ```
 
 2. Install current dependencies with command
